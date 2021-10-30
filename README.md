@@ -7,7 +7,7 @@ I am a self taught front-end developer who works on React and love creating some
 ### Talking about Personal Stuff
 
 - 🌱 I’m currently learning Node js.
-- 💬 Ask me about React, I will love to help.
+- 💬 Ask me about React, I would love to help.
 - 🌍 How to reach me:akanshagoel5997@gmail.com 
 
 
