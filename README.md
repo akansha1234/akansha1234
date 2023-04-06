@@ -2,7 +2,7 @@
 
 ### Glad to see you here!
 
-I am a self taught front-end developer who works on React and love creating some cool websites 😄.
+I am a self taught front-end developer who works on React, Angular and love creating some cool websites 😄.
 
 ### Talking about Personal Stuff
 
