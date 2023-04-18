@@ -6,8 +6,8 @@ I am a self taught front-end developer who works on React, Angular and love crea
 
 ### Talking about Personal Stuff
 
-- 🌱 I’m currently learning Node js.
-- 💬 Ask me about React, I would love to help.
+- 🌱 I’m currently learning Angular.
+- 💬 Ask me about React & Angular, I would love to help.
 - 🙎‍♀️ My Portfolio : https://csb-fz9bf.netlify.app/ 
 - 🌍 How to reach me:akanshagoel5997@gmail.com 
 
